@@ -1,8 +1,14 @@
 html {
   font-size: 10px;
-  background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
-  background-size: cover;
+  background:
+        linear-gradient(
+          rgba(0, 0, 0, 0.7), 
+          rgba(0, 0, 0, 0.7)
+        ),
+        url(https://vignette.wikia.nocookie.net/k-on/images/2/29/Ho-Kago_Tea_Time_group_picture.png/revision/latest?cb=20130609164325);
+   background-size: cover;
 }
+
 
 body,html {
   margin: 0;
